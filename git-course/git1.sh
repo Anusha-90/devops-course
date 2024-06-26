@@ -1,1 +1,3 @@
-line1
+#!/bin/bash
+
+echo "learning git"

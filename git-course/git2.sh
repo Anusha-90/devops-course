@@ -1,1 +1,3 @@
-line2
+#!/bin/bash
+
+echo "learning commits"
